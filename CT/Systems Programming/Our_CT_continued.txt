@@ -1,0 +1,2 @@
+7) What is DEFTAB?
+8) What is the difference between macro and subroutine?
